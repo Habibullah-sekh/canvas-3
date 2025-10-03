@@ -1,0 +1,718 @@
+{
+  "version": "6.7.1",
+  "objects": [
+    {
+      "type": "Path",
+      "version": "6.7.1",
+      "originX": "left",
+      "originY": "top",
+      "left": 144.3873,
+      "top": 105.1617,
+      "width": 12.9955,
+      "height": 139.01,
+      "fill": null,
+      "stroke": "#000000",
+      "strokeWidth": 5,
+      "strokeDashArray": null,
+      "strokeLineCap": "round",
+      "strokeDashOffset": 0,
+      "strokeLineJoin": "round",
+      "strokeUniform": false,
+      "strokeMiterLimit": 10,
+      "scaleX": 1,
+      "scaleY": 1,
+      "angle": 0,
+      "flipX": false,
+      "flipY": false,
+      "opacity": 1,
+      "shadow": null,
+      "visible": true,
+      "backgroundColor": "",
+      "fillRule": "nonzero",
+      "paintFirst": "fill",
+      "globalCompositeOperation": "source-over",
+      "skewX": 0,
+      "skewY": 0,
+      "path": [
+        [
+          "M",
+          146.8873076923077,
+          107.66165649414063
+        ],
+        [
+          "Q",
+          146.8923076923077,
+          107.66665649414062,
+          146.8923076923077,
+          111.16665649414062
+        ],
+        [
+          "Q",
+          146.8923076923077,
+          114.66665649414062,
+          148.39120879120878,
+          123.16665649414062
+        ],
+        [
+          "Q",
+          149.8901098901099,
+          131.66665649414062,
+          152.3882783882784,
+          142.66665649414062
+        ],
+        [
+          "Q",
+          154.8864468864469,
+          153.66665649414062,
+          156.88498168498168,
+          169.16665649414062
+        ],
+        [
+          "Q",
+          158.88351648351647,
+          184.66665649414062,
+          159.38315018315018,
+          193.66665649414062
+        ],
+        [
+          "Q",
+          159.88278388278388,
+          202.66665649414062,
+          159.88278388278388,
+          212.16665649414062
+        ],
+        [
+          "Q",
+          159.88278388278388,
+          221.66665649414062,
+          159.88278388278388,
+          227.66665649414062
+        ],
+        [
+          "Q",
+          159.88278388278388,
+          233.66665649414062,
+          159.88278388278388,
+          237.66665649414062
+        ],
+        [
+          "Q",
+          159.88278388278388,
+          241.66665649414062,
+          159.88278388278388,
+          244.16665649414062
+        ],
+        [
+          "L",
+          159.88278388278388,
+          246.67165649414062
+        ]
+      ]
+    },
+    {
+      "type": "Path",
+      "version": "6.7.1",
+      "originX": "left",
+      "originY": "top",
+      "left": 223.3294,
+      "top": 120.1617,
+      "width": 21.9889,
+      "height": 98.01,
+      "fill": null,
+      "stroke": "#000000",
+      "strokeWidth": 5,
+      "strokeDashArray": null,
+      "strokeLineCap": "round",
+      "strokeDashOffset": 0,
+      "strokeLineJoin": "round",
+      "strokeUniform": false,
+      "strokeMiterLimit": 10,
+      "scaleX": 1,
+      "scaleY": 1,
+      "angle": 0,
+      "flipX": false,
+      "flipY": false,
+      "opacity": 1,
+      "shadow": null,
+      "visible": true,
+      "backgroundColor": "",
+      "fillRule": "nonzero",
+      "paintFirst": "fill",
+      "globalCompositeOperation": "source-over",
+      "skewX": 0,
+      "skewY": 0,
+      "path": [
+        [
+          "M",
+          239.81917582417583,
+          122.66165649414063
+        ],
+        [
+          "Q",
+          239.82417582417582,
+          122.66665649414062,
+          241.32307692307694,
+          127.66665649414062
+        ],
+        [
+          "Q",
+          242.82197802197803,
+          132.66665649414062,
+          243.82124542124544,
+          144.66665649414062
+        ],
+        [
+          "Q",
+          244.82051282051285,
+          156.66665649414062,
+          246.31941391941393,
+          162.66665649414062
+        ],
+        [
+          "Q",
+          247.81831501831502,
+          168.66665649414062,
+          247.81831501831502,
+          175.16665649414062
+        ],
+        [
+          "Q",
+          247.81831501831502,
+          181.66665649414062,
+          247.81831501831502,
+          187.66665649414062
+        ],
+        [
+          "Q",
+          247.81831501831502,
+          193.66665649414062,
+          247.81831501831502,
+          200.16665649414062
+        ],
+        [
+          "Q",
+          247.81831501831502,
+          206.66665649414062,
+          236.82637362637362,
+          213.66665649414062
+        ],
+        [
+          "L",
+          225.82943223443223,
+          220.67165649414062
+        ]
+      ]
+    },
+    {
+      "type": "Path",
+      "version": "6.7.1",
+      "originX": "left",
+      "originY": "top",
+      "left": 1.4921,
+      "top": 155.1617,
+      "width": 269.8122,
+      "height": 58.01,
+      "fill": null,
+      "stroke": "#000000",
+      "strokeWidth": 5,
+      "strokeDashArray": null,
+      "strokeLineCap": "round",
+      "strokeDashOffset": 0,
+      "strokeLineJoin": "round",
+      "strokeUniform": false,
+      "strokeMiterLimit": 10,
+      "scaleX": 1,
+      "scaleY": 1,
+      "angle": 0,
+      "flipX": false,
+      "flipY": false,
+      "opacity": 1,
+      "shadow": null,
+      "visible": true,
+      "backgroundColor": "",
+      "fillRule": "nonzero",
+      "paintFirst": "fill",
+      "globalCompositeOperation": "source-over",
+      "skewX": 0,
+      "skewY": 0,
+      "path": [
+        [
+          "M",
+          3.992069597069597,
+          215.67165649414062
+        ],
+        [
+          "Q",
+          3.997069597069597,
+          215.66665649414062,
+          8.993406593406593,
+          214.16665649414062
+        ],
+        [
+          "Q",
+          13.98974358974359,
+          212.66665649414062,
+          37.97216117216117,
+          206.66665649414062
+        ],
+        [
+          "Q",
+          61.954578754578755,
+          200.66665649414062,
+          103.92380952380952,
+          194.66665649414062
+        ],
+        [
+          "Q",
+          145.8930402930403,
+          188.66665649414062,
+          188.36190476190475,
+          179.66665649414062
+        ],
+        [
+          "Q",
+          230.83076923076922,
+          170.66665649414062,
+          245.81978021978023,
+          165.66665649414062
+        ],
+        [
+          "Q",
+          260.8087912087912,
+          160.66665649414062,
+          267.3040293040293,
+          159.16665649414062
+        ],
+        [
+          "L",
+          273.80426739926736,
+          157.66165649414063
+        ]
+      ]
+    },
+    {
+      "type": "Path",
+      "version": "6.7.1",
+      "originX": "left",
+      "originY": "top",
+      "left": 386.21,
+      "top": 98.1667,
+      "width": 0.01,
+      "height": 0,
+      "fill": null,
+      "stroke": "#000000",
+      "strokeWidth": 5,
+      "strokeDashArray": null,
+      "strokeLineCap": "round",
+      "strokeDashOffset": 0,
+      "strokeLineJoin": "round",
+      "strokeUniform": false,
+      "strokeMiterLimit": 10,
+      "scaleX": 1,
+      "scaleY": 1,
+      "angle": 0,
+      "flipX": false,
+      "flipY": false,
+      "opacity": 1,
+      "shadow": null,
+      "visible": true,
+      "backgroundColor": "",
+      "fillRule": "nonzero",
+      "paintFirst": "fill",
+      "globalCompositeOperation": "source-over",
+      "skewX": 0,
+      "skewY": 0,
+      "path": [
+        [
+          "M",
+          388.7100183150183,
+          100.66665649414062
+        ],
+        [
+          "L",
+          388.7200183150183,
+          100.66665649414062
+        ]
+      ]
+    },
+    {
+      "type": "Path",
+      "version": "6.7.1",
+      "originX": "left",
+      "originY": "top",
+      "left": 97.4217,
+      "top": 83.1617,
+      "width": 231.835,
+      "height": 39.005,
+      "fill": null,
+      "stroke": "#000000",
+      "strokeWidth": 5,
+      "strokeDashArray": null,
+      "strokeLineCap": "round",
+      "strokeDashOffset": 0,
+      "strokeLineJoin": "round",
+      "strokeUniform": false,
+      "strokeMiterLimit": 10,
+      "scaleX": 1,
+      "scaleY": 1,
+      "angle": 0,
+      "flipX": false,
+      "flipY": false,
+      "opacity": 1,
+      "shadow": null,
+      "visible": true,
+      "backgroundColor": "",
+      "fillRule": "nonzero",
+      "paintFirst": "fill",
+      "globalCompositeOperation": "source-over",
+      "skewX": 0,
+      "skewY": 0,
+      "path": [
+        [
+          "M",
+          99.92173992673993,
+          107.66665649414062
+        ],
+        [
+          "Q",
+          99.92673992673993,
+          107.66665649414062,
+          99.92673992673993,
+          108.16665649414062
+        ],
+        [
+          "Q",
+          99.92673992673993,
+          108.66665649414062,
+          101.42564102564103,
+          108.66665649414062
+        ],
+        [
+          "Q",
+          102.92454212454213,
+          108.66665649414062,
+          109.41978021978022,
+          110.66665649414062
+        ],
+        [
+          "Q",
+          115.91501831501832,
+          112.66665649414062,
+          127.9062271062271,
+          113.66665649414062
+        ],
+        [
+          "Q",
+          139.89743589743588,
+          114.66665649414062,
+          159.88278388278388,
+          118.16665649414062
+        ],
+        [
+          "Q",
+          179.86813186813185,
+          121.66665649414062,
+          200.85274725274724,
+          123.16665649414062
+        ],
+        [
+          "Q",
+          221.83736263736265,
+          124.66665649414062,
+          246.81904761904764,
+          124.66665649414062
+        ],
+        [
+          "Q",
+          271.8007326007326,
+          124.66665649414062,
+          277.2967032967033,
+          124.66665649414062
+        ],
+        [
+          "Q",
+          282.792673992674,
+          124.66665649414062,
+          292.28571428571433,
+          123.66665649414062
+        ],
+        [
+          "Q",
+          301.7787545787546,
+          122.66665649414062,
+          308.27399267399267,
+          120.66665649414062
+        ],
+        [
+          "Q",
+          314.7692307692308,
+          118.66665649414062,
+          316.76776556776554,
+          116.66665649414062
+        ],
+        [
+          "Q",
+          318.76630036630036,
+          114.66665649414062,
+          320.26520146520147,
+          113.16665649414062
+        ],
+        [
+          "Q",
+          321.76410256410253,
+          111.66665649414062,
+          322.76336996336994,
+          110.66665649414062
+        ],
+        [
+          "Q",
+          323.76263736263735,
+          109.66665649414062,
+          324.76190476190476,
+          107.16665649414062
+        ],
+        [
+          "Q",
+          325.76117216117217,
+          104.66665649414062,
+          326.7604395604395,
+          102.66665649414062
+        ],
+        [
+          "Q",
+          327.75970695970693,
+          100.66665649414062,
+          328.75897435897434,
+          96.66665649414062
+        ],
+        [
+          "Q",
+          329.75824175824175,
+          92.66665649414062,
+          330.75750915750916,
+          91.16665649414062
+        ],
+        [
+          "Q",
+          331.7567765567766,
+          89.66665649414062,
+          331.7567765567766,
+          89.16665649414062
+        ],
+        [
+          "Q",
+          331.7567765567766,
+          88.66665649414062,
+          331.7567765567766,
+          88.16665649414062
+        ],
+        [
+          "Q",
+          331.7567765567766,
+          87.66665649414062,
+          331.7567765567766,
+          86.66665649414062
+        ],
+        [
+          "L",
+          331.7567765567766,
+          85.66165649414063
+        ]
+      ]
+    },
+    {
+      "type": "Path",
+      "version": "6.7.1",
+      "originX": "left",
+      "originY": "top",
+      "left": 372.7754,
+      "top": 828.9815,
+      "width": 0.01,
+      "height": 0,
+      "fill": null,
+      "stroke": "#000000",
+      "strokeWidth": 5,
+      "strokeDashArray": null,
+      "strokeLineCap": "round",
+      "strokeDashOffset": 0,
+      "strokeLineJoin": "round",
+      "strokeUniform": false,
+      "strokeMiterLimit": 10,
+      "scaleX": 1,
+      "scaleY": 1,
+      "angle": 0,
+      "flipX": false,
+      "flipY": false,
+      "opacity": 1,
+      "shadow": null,
+      "visible": true,
+      "backgroundColor": "",
+      "fillRule": "nonzero",
+      "paintFirst": "fill",
+      "globalCompositeOperation": "source-over",
+      "skewX": 0,
+      "skewY": 0,
+      "path": [
+        [
+          "M",
+          375.27542328042335,
+          831.4814927842882
+        ],
+        [
+          "L",
+          375.28542328042334,
+          831.4814927842882
+        ]
+      ]
+    },
+    {
+      "subTargetCheck": false,
+      "interactive": false,
+      "type": "Group",
+      "version": "6.7.1",
+      "originX": "left",
+      "originY": "top",
+      "left": -4.8901,
+      "top": 279.3333,
+      "width": 165,
+      "height": 11,
+      "fill": "rgb(0,0,0)",
+      "stroke": null,
+      "strokeWidth": 0,
+      "strokeDashArray": null,
+      "strokeLineCap": "butt",
+      "strokeDashOffset": 0,
+      "strokeLineJoin": "miter",
+      "strokeUniform": true,
+      "strokeMiterLimit": 4,
+      "scaleX": 2.8828,
+      "scaleY": 1.0034,
+      "angle": 0,
+      "flipX": false,
+      "flipY": true,
+      "opacity": 1,
+      "shadow": null,
+      "visible": true,
+      "backgroundColor": "",
+      "fillRule": "nonzero",
+      "paintFirst": "fill",
+      "globalCompositeOperation": "source-over",
+      "skewX": 0,
+      "skewY": 0,
+      "layoutManager": {
+        "type": "layoutManager",
+        "strategy": "fit-content"
+      },
+      "objects": [
+        {
+          "type": "Line",
+          "version": "6.7.1",
+          "originX": "left",
+          "originY": "top",
+          "left": -82.5,
+          "top": -3,
+          "width": 160,
+          "height": 0,
+          "fill": "rgb(0,0,0)",
+          "stroke": "#000000",
+          "strokeWidth": 5,
+          "strokeDashArray": null,
+          "strokeLineCap": "butt",
+          "strokeDashOffset": 0,
+          "strokeLineJoin": "miter",
+          "strokeUniform": false,
+          "strokeMiterLimit": 4,
+          "scaleX": 1,
+          "scaleY": 1,
+          "angle": 0,
+          "flipX": false,
+          "flipY": false,
+          "opacity": 1,
+          "shadow": null,
+          "visible": true,
+          "backgroundColor": "",
+          "fillRule": "nonzero",
+          "paintFirst": "fill",
+          "globalCompositeOperation": "source-over",
+          "skewX": 0,
+          "skewY": 0,
+          "x1": -80,
+          "x2": 80,
+          "y1": 0,
+          "y2": 0
+        },
+        {
+          "type": "Triangle",
+          "version": "6.7.1",
+          "originX": "left",
+          "originY": "top",
+          "left": 75,
+          "top": -5.5,
+          "width": 10,
+          "height": 10,
+          "fill": "#000000",
+          "stroke": null,
+          "strokeWidth": 1,
+          "strokeDashArray": null,
+          "strokeLineCap": "butt",
+          "strokeDashOffset": 0,
+          "strokeLineJoin": "miter",
+          "strokeUniform": false,
+          "strokeMiterLimit": 4,
+          "scaleX": 1,
+          "scaleY": 1,
+          "angle": 90,
+          "flipX": false,
+          "flipY": false,
+          "opacity": 1,
+          "shadow": null,
+          "visible": true,
+          "backgroundColor": "",
+          "fillRule": "nonzero",
+          "paintFirst": "fill",
+          "globalCompositeOperation": "source-over",
+          "skewX": 0,
+          "skewY": 0
+        }
+      ]
+    },
+    {
+      "type": "Line",
+      "version": "6.7.1",
+      "originX": "left",
+      "originY": "top",
+      "left": 77.4304,
+      "top": 493.5546,
+      "width": 160,
+      "height": 80,
+      "fill": "rgb(0,0,0)",
+      "stroke": "#000000",
+      "strokeWidth": 5,
+      "strokeDashArray": null,
+      "strokeLineCap": "butt",
+      "strokeDashOffset": 0,
+      "strokeLineJoin": "miter",
+      "strokeUniform": true,
+      "strokeMiterLimit": 4,
+      "scaleX": 1.7195,
+      "scaleY": 0.8527,
+      "angle": 330.8915,
+      "flipX": false,
+      "flipY": false,
+      "opacity": 1,
+      "shadow": null,
+      "visible": true,
+      "backgroundColor": "",
+      "fillRule": "nonzero",
+      "paintFirst": "fill",
+      "globalCompositeOperation": "source-over",
+      "skewX": 0,
+      "skewY": 0,
+      "x1": -80,
+      "x2": 80,
+      "y1": -40,
+      "y2": 40
+    }
+  ],
+  "background": "#ffffff"
+}
