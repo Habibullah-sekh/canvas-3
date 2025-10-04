@@ -1,0 +1,269 @@
+{
+  "version": "6.7.1",
+  "objects": [
+    {
+      "type": "Path",
+      "version": "6.7.1",
+      "originX": "left",
+      "originY": "top",
+      "left": 302.495,
+      "top": 20.3889,
+      "width": 0.01,
+      "height": 0,
+      "fill": null,
+      "stroke": "#000000",
+      "strokeWidth": 5,
+      "strokeDashArray": null,
+      "strokeLineCap": "round",
+      "strokeDashOffset": 0,
+      "strokeLineJoin": "round",
+      "strokeUniform": false,
+      "strokeMiterLimit": 10,
+      "scaleX": 1,
+      "scaleY": 1,
+      "angle": 0,
+      "flipX": false,
+      "flipY": false,
+      "opacity": 1,
+      "shadow": null,
+      "visible": true,
+      "backgroundColor": "",
+      "fillRule": "nonzero",
+      "paintFirst": "fill",
+      "globalCompositeOperation": "source-over",
+      "skewX": 0,
+      "skewY": 0,
+      "path": [
+        [
+          "M",
+          304.995,
+          22.888885498046875
+        ],
+        [
+          "L",
+          305.005,
+          22.888885498046875
+        ]
+      ]
+    },
+    {
+      "type": "Path",
+      "version": "6.7.1",
+      "originX": "left",
+      "originY": "top",
+      "left": 77.495,
+      "top": 102.3839,
+      "width": 503.005,
+      "height": 210.5606,
+      "fill": null,
+      "stroke": "#000000",
+      "strokeWidth": 5,
+      "strokeDashArray": null,
+      "strokeLineCap": "round",
+      "strokeDashOffset": 0,
+      "strokeLineJoin": "round",
+      "strokeUniform": false,
+      "strokeMiterLimit": 10,
+      "scaleX": 1,
+      "scaleY": 1,
+      "angle": 0,
+      "flipX": false,
+      "flipY": false,
+      "opacity": 1,
+      "shadow": null,
+      "visible": true,
+      "backgroundColor": "",
+      "fillRule": "nonzero",
+      "paintFirst": "fill",
+      "globalCompositeOperation": "source-over",
+      "skewX": 0,
+      "skewY": 0,
+      "path": [
+        [
+          "M",
+          79.995,
+          104.88388549804688
+        ],
+        [
+          "Q",
+          80,
+          104.88888549804688,
+          80,
+          105.38888549804688
+        ],
+        [
+          "Q",
+          80,
+          105.88888549804688,
+          83.5,
+          110.38888549804688
+        ],
+        [
+          "Q",
+          87,
+          114.88888549804688,
+          91,
+          120.88888549804688
+        ],
+        [
+          "Q",
+          95,
+          126.88888549804688,
+          111.5,
+          138.88888549804688
+        ],
+        [
+          "Q",
+          128,
+          150.88888549804688,
+          149,
+          165.88888549804688
+        ],
+        [
+          "Q",
+          170,
+          180.88888549804688,
+          207.5,
+          201.88888549804688
+        ],
+        [
+          "Q",
+          245,
+          222.88888549804688,
+          301,
+          246.88888549804688
+        ],
+        [
+          "Q",
+          357,
+          270.8888854980469,
+          404.5,
+          289.3888854980469
+        ],
+        [
+          "Q",
+          452,
+          307.8888854980469,
+          488,
+          311.8888854980469
+        ],
+        [
+          "Q",
+          524,
+          315.8888854980469,
+          540.5,
+          314.8888854980469
+        ],
+        [
+          "Q",
+          557,
+          313.8888854980469,
+          565,
+          307.3888854980469
+        ],
+        [
+          "Q",
+          573,
+          300.8888854980469,
+          575.5,
+          290.3888854980469
+        ],
+        [
+          "Q",
+          578,
+          279.8888854980469,
+          579,
+          265.8888854980469
+        ],
+        [
+          "Q",
+          580,
+          251.88888549804688,
+          581.5,
+          241.38888549804688
+        ],
+        [
+          "Q",
+          583,
+          230.88888549804688,
+          583,
+          223.88888549804688
+        ],
+        [
+          "Q",
+          583,
+          216.88888549804688,
+          583,
+          211.88888549804688
+        ],
+        [
+          "Q",
+          583,
+          206.88888549804688,
+          583,
+          204.38888549804688
+        ],
+        [
+          "Q",
+          583,
+          201.88888549804688,
+          583,
+          199.88888549804688
+        ],
+        [
+          "Q",
+          583,
+          197.88888549804688,
+          583,
+          197.38888549804688
+        ],
+        [
+          "Q",
+          583,
+          196.88888549804688,
+          582.5,
+          195.38888549804688
+        ],
+        [
+          "L",
+          581.995,
+          193.88388549804688
+        ]
+      ]
+    },
+    {
+      "type": "Triangle",
+      "version": "6.7.1",
+      "originX": "left",
+      "originY": "top",
+      "left": 276.6666,
+      "top": 43.9245,
+      "width": 120,
+      "height": 120,
+      "fill": "transparent",
+      "stroke": "#000000",
+      "strokeWidth": 5,
+      "strokeDashArray": null,
+      "strokeLineCap": "butt",
+      "strokeDashOffset": 0,
+      "strokeLineJoin": "miter",
+      "strokeUniform": true,
+      "strokeMiterLimit": 4,
+      "scaleX": 1.7028,
+      "scaleY": 1.2173,
+      "angle": 0,
+      "flipX": true,
+      "flipY": true,
+      "opacity": 1,
+      "shadow": null,
+      "visible": true,
+      "backgroundColor": "",
+      "fillRule": "nonzero",
+      "paintFirst": "fill",
+      "globalCompositeOperation": "source-over",
+      "skewX": 0,
+      "skewY": 0
+    }
+  ],
+  "background": "#ffffff"
+}
