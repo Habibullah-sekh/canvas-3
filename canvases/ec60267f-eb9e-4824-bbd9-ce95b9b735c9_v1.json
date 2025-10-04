@@ -1,0 +1,297 @@
+{
+  "version": "6.7.1",
+  "objects": [
+    {
+      "type": "Path",
+      "version": "6.7.1",
+      "originX": "left",
+      "originY": "top",
+      "left": 256.495,
+      "top": 82.7222,
+      "width": 0.01,
+      "height": 0,
+      "fill": null,
+      "stroke": "#000000",
+      "strokeWidth": 5,
+      "strokeDashArray": null,
+      "strokeLineCap": "round",
+      "strokeDashOffset": 0,
+      "strokeLineJoin": "round",
+      "strokeUniform": false,
+      "strokeMiterLimit": 10,
+      "scaleX": 1,
+      "scaleY": 1,
+      "angle": 0,
+      "flipX": false,
+      "flipY": false,
+      "opacity": 1,
+      "shadow": null,
+      "visible": true,
+      "backgroundColor": "",
+      "fillRule": "nonzero",
+      "paintFirst": "fill",
+      "globalCompositeOperation": "source-over",
+      "skewX": 0,
+      "skewY": 0,
+      "path": [
+        [
+          "M",
+          258.995,
+          85.22222900390625
+        ],
+        [
+          "L",
+          259.005,
+          85.22222900390625
+        ]
+      ]
+    },
+    {
+      "type": "Path",
+      "version": "6.7.1",
+      "originX": "left",
+      "originY": "top",
+      "left": 213.495,
+      "top": 33.7222,
+      "width": 453.755,
+      "height": 137.005,
+      "fill": null,
+      "stroke": "#000000",
+      "strokeWidth": 5,
+      "strokeDashArray": null,
+      "strokeLineCap": "round",
+      "strokeDashOffset": 0,
+      "strokeLineJoin": "round",
+      "strokeUniform": false,
+      "strokeMiterLimit": 10,
+      "scaleX": 1,
+      "scaleY": 1,
+      "angle": 0,
+      "flipX": false,
+      "flipY": false,
+      "opacity": 1,
+      "shadow": null,
+      "visible": true,
+      "backgroundColor": "",
+      "fillRule": "nonzero",
+      "paintFirst": "fill",
+      "globalCompositeOperation": "source-over",
+      "skewX": 0,
+      "skewY": 0,
+      "path": [
+        [
+          "M",
+          215.995,
+          117.21722900390625
+        ],
+        [
+          "Q",
+          216,
+          117.22222900390625,
+          216,
+          116.72222900390625
+        ],
+        [
+          "Q",
+          216,
+          116.22222900390625,
+          220,
+          116.72222900390625
+        ],
+        [
+          "Q",
+          224,
+          117.22222900390625,
+          234,
+          123.72222900390625
+        ],
+        [
+          "Q",
+          244,
+          130.22222900390625,
+          260,
+          137.72222900390625
+        ],
+        [
+          "Q",
+          276,
+          145.22222900390625,
+          307.5,
+          156.72222900390625
+        ],
+        [
+          "Q",
+          339,
+          168.22222900390625,
+          377.5,
+          169.22222900390625
+        ],
+        [
+          "Q",
+          416,
+          170.22222900390625,
+          469.5,
+          167.22222900390625
+        ],
+        [
+          "Q",
+          523,
+          164.22222900390625,
+          577.5,
+          138.72222900390625
+        ],
+        [
+          "Q",
+          632,
+          113.22222900390625,
+          650,
+          96.22222900390625
+        ],
+        [
+          "Q",
+          668,
+          79.22222900390625,
+          669,
+          68.22222900390625
+        ],
+        [
+          "Q",
+          670,
+          57.22222900390625,
+          669,
+          54.22222900390625
+        ],
+        [
+          "Q",
+          668,
+          51.22222900390625,
+          666,
+          49.22222900390625
+        ],
+        [
+          "Q",
+          664,
+          47.22222900390625,
+          656.5,
+          43.22222900390625
+        ],
+        [
+          "Q",
+          649,
+          39.22222900390625,
+          641,
+          37.72222900390625
+        ],
+        [
+          "Q",
+          633,
+          36.22222900390625,
+          622.5,
+          36.22222900390625
+        ],
+        [
+          "Q",
+          612,
+          36.22222900390625,
+          598.5,
+          37.72222900390625
+        ],
+        [
+          "Q",
+          585,
+          39.22222900390625,
+          568.5,
+          48.72222900390625
+        ],
+        [
+          "Q",
+          552,
+          58.22222900390625,
+          531,
+          73.22222900390625
+        ],
+        [
+          "Q",
+          510,
+          88.22222900390625,
+          495,
+          100.72222900390625
+        ],
+        [
+          "Q",
+          480,
+          113.22222900390625,
+          469,
+          125.22222900390625
+        ],
+        [
+          "Q",
+          458,
+          137.22222900390625,
+          449.5,
+          146.72222900390625
+        ],
+        [
+          "Q",
+          441,
+          156.22222900390625,
+          436.5,
+          161.72222900390625
+        ],
+        [
+          "Q",
+          432,
+          167.22222900390625,
+          432,
+          169.72222900390625
+        ],
+        [
+          "Q",
+          432,
+          172.22222900390625,
+          432.5,
+          172.72222900390625
+        ],
+        [
+          "L",
+          433.005,
+          173.22722900390625
+        ]
+      ]
+    },
+    {
+      "type": "Triangle",
+      "version": "6.7.1",
+      "originX": "left",
+      "originY": "top",
+      "left": 100.0348,
+      "top": 223.0266,
+      "width": 120,
+      "height": 120,
+      "fill": "transparent",
+      "stroke": "#000000",
+      "strokeWidth": 5,
+      "strokeDashArray": null,
+      "strokeLineCap": "butt",
+      "strokeDashOffset": 0,
+      "strokeLineJoin": "miter",
+      "strokeUniform": true,
+      "strokeMiterLimit": 4,
+      "scaleX": 1.4247,
+      "scaleY": 0.9331,
+      "angle": 0,
+      "flipX": true,
+      "flipY": true,
+      "opacity": 1,
+      "shadow": null,
+      "visible": true,
+      "backgroundColor": "",
+      "fillRule": "nonzero",
+      "paintFirst": "fill",
+      "globalCompositeOperation": "source-over",
+      "skewX": 0,
+      "skewY": 0
+    }
+  ],
+  "background": "#ffffff"
+}
