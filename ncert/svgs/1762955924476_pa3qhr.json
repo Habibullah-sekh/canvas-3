@@ -1,0 +1,48 @@
+{
+  "subject": "botany",
+  "chapterTitle": "5. Anatomy of Flowering Plants",
+  "chapterNumber": 5,
+  "titleSlug": "5-anatomy-of-flowering-plants",
+  "pages": [
+    {
+      "page": 1,
+      "url": "https://cdn.jsdelivr.net/gh/Habibullah-sekh/canvas-3@main/ncert/svgs/1762955907520_6jnx88.svg",
+      "fileName": "1762955907520_6jnx88.svg"
+    },
+    {
+      "page": 2,
+      "url": "https://cdn.jsdelivr.net/gh/Habibullah-sekh/canvas-3@main/ncert/svgs/1762955909427_dpc0ke.svg",
+      "fileName": "1762955909427_dpc0ke.svg"
+    },
+    {
+      "page": 3,
+      "url": "https://cdn.jsdelivr.net/gh/Habibullah-sekh/canvas-3@main/ncert/svgs/1762955911316_o8w7po.svg",
+      "fileName": "1762955911316_o8w7po.svg"
+    },
+    {
+      "page": 4,
+      "url": "https://cdn.jsdelivr.net/gh/Habibullah-sekh/canvas-3@main/ncert/svgs/1762955913780_tisp55.svg",
+      "fileName": "1762955913780_tisp55.svg"
+    },
+    {
+      "page": 5,
+      "url": "https://cdn.jsdelivr.net/gh/Habibullah-sekh/canvas-3@main/ncert/svgs/1762955916367_4w6k7d.svg",
+      "fileName": "1762955916367_4w6k7d.svg"
+    },
+    {
+      "page": 6,
+      "url": "https://cdn.jsdelivr.net/gh/Habibullah-sekh/canvas-3@main/ncert/svgs/1762955919686_9wd0n8.svg",
+      "fileName": "1762955919686_9wd0n8.svg"
+    },
+    {
+      "page": 7,
+      "url": "https://cdn.jsdelivr.net/gh/Habibullah-sekh/canvas-3@main/ncert/svgs/1762955921964_8nec1r.svg",
+      "fileName": "1762955921964_8nec1r.svg"
+    },
+    {
+      "page": 8,
+      "url": "https://cdn.jsdelivr.net/gh/Habibullah-sekh/canvas-3@main/ncert/svgs/1762955923440_c7dnos.svg",
+      "fileName": "1762955923440_c7dnos.svg"
+    }
+  ]
+}
