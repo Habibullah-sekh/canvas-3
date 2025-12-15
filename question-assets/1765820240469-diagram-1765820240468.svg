@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="833" height="400" viewBox="0 0 833 400" xml:space="preserve">
+<desc>Created with Fabric.js 6.7.1</desc>
+<defs>
+</defs>
+<rect x="0" y="0" width="100%" height="100%" fill="transparent"></rect>
+<g transform="matrix(1 0 0 1 271.5947 43.1573)"  >
+<line style="stroke: rgb(0,0,0); stroke-width: 3; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  x1="-133.43507839093695" y1="-0.9981770813547151" x2="133.43507839093695" y2="0.9981770813547151" />
+</g>
+<g transform="matrix(1 0 0 1 291.585 99.9929)"  >
+<path style="stroke: rgb(0,0,0); stroke-width: 3; stroke-dasharray: none; stroke-linecap: round; stroke-dashoffset: 0; stroke-linejoin: round; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-opacity: 0; fill-rule: nonzero; opacity: 1;"  transform=" translate(-291.585, -99.9929)" d="M 120.1684 98.057 L 463.0016 100.0534 M 463.0016 100.0534 L 452.5745 105.9928 M 463.0016 100.0534 L 452.6444 93.993" stroke-linecap="round" />
+</g>
+<g transform="matrix(1 0 0 1 238.3865 234.1889)"  >
+<ellipse style="stroke: rgb(0,0,0); stroke-width: 3; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-opacity: 0; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" rx="76.73760713589152" ry="76.73760713589152" />
+</g>
+<g transform="matrix(1 0 0 1 434.0164 211.3529)"  >
+<rect style="stroke: rgb(0,0,0); stroke-width: 3; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-opacity: 0; fill-rule: nonzero; opacity: 1;"  x="-85.45842099194837" y="-53.90156239315475" rx="0" ry="0" width="170.91684198389675" height="107.8031247863095" />
+</g>
+</svg>
