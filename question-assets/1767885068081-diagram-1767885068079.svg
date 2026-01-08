@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="332.75908519358063" height="118.00299622503928" viewBox="0 0 332.7591 118.003" xml:space="preserve">
+<desc>Created with Fabric.js 6.7.1</desc>
+<defs>
+</defs>
+<rect x="0" y="0" width="100%" height="100%" fill="transparent"></rect>
+<g transform="matrix(1 0 0 1 -115.6428 -149.5204)"  >
+<path style="stroke: rgb(0,0,0); stroke-width: 3; stroke-dasharray: none; stroke-linecap: round; stroke-dashoffset: 0; stroke-linejoin: round; stroke-miterlimit: 10; fill: none; fill-rule: nonzero; opacity: 1;"  transform=" translate(-151.1284, -211.5219)" d="M 61.6958 256.5234 Q 61.6988 256.5234 62.1984 257.0234 Q 62.698 257.5234 63.6972 257.5234 Q 64.6965 257.5234 69.6925 257.5234 Q 74.6886 257.5234 84.1811 257.5234 Q 93.6736 257.5234 118.654 249.5234 Q 143.6343 241.5234 163.119 232.5234 Q 182.6036 223.5234 196.5926 215.0234 Q 210.5816 206.5234 219.5745 199.0234 Q 228.5674 191.5234 233.0639 185.0234 Q 237.5603 178.5234 239.0592 172.0234 L 240.561 165.5204" stroke-linecap="round" />
+</g>
+<g transform="matrix(1 0 0 1 17.7522 -162.5204)"  >
+<path style="stroke: rgb(0,0,0); stroke-width: 3; stroke-dasharray: none; stroke-linecap: round; stroke-dashoffset: 0; stroke-linejoin: round; stroke-miterlimit: 10; fill: none; fill-rule: nonzero; opacity: 1;"  transform=" translate(-284.5234, -198.5219)" d="M 238.5626 162.5204 Q 238.5596 162.5234 236.0615 162.5234 Q 233.5635 162.5234 220.5737 170.5234 Q 207.5839 178.5234 203.5871 184.5234 Q 199.5902 190.5234 198.591 196.5234 Q 197.5918 202.5234 197.5918 208.0234 Q 197.5918 213.5234 199.5902 217.5234 Q 201.5887 221.5234 206.0851 225.5234 Q 210.5816 229.5234 215.078 230.5234 Q 219.5745 231.5234 226.569 233.0234 Q 233.5635 234.5234 247.0529 234.5234 Q 260.5422 234.5234 280.5265 234.5234 Q 300.5108 234.5234 317.997 233.0234 Q 335.4832 231.5234 348.9726 228.0234 Q 362.462 224.5234 366.4588 223.0234 Q 370.4557 221.5234 370.9553 221.5234 Q 371.4549 221.5234 371.4549 219.5234 L 371.4549 217.5204" stroke-linecap="round" />
+</g>
+</svg>
